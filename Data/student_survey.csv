@@ -1,0 +1,9 @@
+student_id,Name,Age,Score,Department,enroll_date
+1.0,Alice,21,85.0,CS,2023-09-01
+2.0,bob,22,90.0,cs,2023/09/01
+2.0,bob,22,90.0,cs,2023/09/01
+3.0,CHARLIE,nineteen,78.0,Math,01-09-2023
+4.0,Diana,20,,MATH,2023-09-01
+5.0,eve,23,88.0,Physics,Sep 1 2023
+6.0,Frank,,72.0,physics,2023-09-01
+,,25,95.0,CS,2023-09-01
